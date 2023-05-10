@@ -1,0 +1,29 @@
+.main {
+  background-color: #252323;
+  min-height: 500vh;
+  font-family: "JetBrains Mono";
+  color: #70798C;
+}
+
+.page {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  padding: 6rem;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.presentation {
+  font-size: 2em;
+}
+
+.name {
+  width: 5em;
+  font-size: 5em;
+}
+
+.jobTitle {
+  font-size: 2em;
+}
