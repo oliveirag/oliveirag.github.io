@@ -1,5 +1,5 @@
-'use client'
-import Image from 'next/image'
+'use client' //todo: remember to test hybrid solution
+import Image from 'next/image' //todo: add commit lint and plop
 import styles from './page.module.css'
 import {motion, useScroll, useSpring, useTransform} from "framer-motion";
 
