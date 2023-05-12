@@ -1,6 +1,6 @@
 .main {
   background-color: #252323;
-  min-height: 500vh;
+  min-height: 1000vh;
   font-family: "JetBrains Mono";
   color: #70798C;
 }
@@ -25,5 +25,11 @@
 }
 
 .jobTitle {
+  font-size: 2em;
+}
+
+.hobbieTitle {
+  font-family: Helvetica;
+  font-weight: 200;
   font-size: 2em;
 }
